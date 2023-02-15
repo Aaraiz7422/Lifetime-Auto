@@ -1,1 +1,9 @@
-# Lifetime-Auto
+# Lifetime Auto
+Lifetime Auto application is just like true caller application who can identify the incoming call user information. If user exists in our database then it will show the information about incoming call otherwise it will display incoming call phone number.
+
+# Project Overview with few screenshots
+
+<img src="https://user-images.githubusercontent.com/92244144/219125477-029b5d49-1b8a-4b7a-abd1-dac68a94f544.png" data-canonical-src="https://user-images.githubusercontent.com/92244144/219125477-029b5d49-1b8a-4b7a-abd1-dac68a94f544.png" width="300" height="600" hspace="10"/> <img src="https://user-images.githubusercontent.com/92244144/219125476-c5bd91bd-9c94-41b3-893c-21011a8c7acf.png" data-canonical-src="https://user-images.githubusercontent.com/92244144/219125476-c5bd91bd-9c94-41b3-893c-21011a8c7acf.png" width="300" height="600" hspace="10"/> <img src="https://user-images.githubusercontent.com/92244144/219127333-b639bb27-5224-4ee1-9f0f-9a09227eb0ac.png" data-canonical-src="https://user-images.githubusercontent.com/92244144/219127333-b639bb27-5224-4ee1-9f0f-9a09227eb0ac.png" width="300" height="600" hspace="10"/> <img src="https://user-images.githubusercontent.com/92244144/219126398-91b5fe19-4b2d-448c-b4b4-61aa2fa42d13.png" data-canonical-src="https://user-images.githubusercontent.com/92244144/219126398-91b5fe19-4b2d-448c-b4b4-61aa2fa42d13.png" width="300" height="600" hspace="10"/> <img src="https://user-images.githubusercontent.com/92244144/219127257-27653ea1-67ff-4d20-9159-8145ab2a8c68.png" data-canonical-src="https://user-images.githubusercontent.com/92244144/219127257-27653ea1-67ff-4d20-9159-8145ab2a8c68.png" width="300" height="600" hspace="10"/> <img src="https://user-images.githubusercontent.com/92244144/219126852-97596043-0db7-4fd7-bfab-24670f7ff57f.png" data-canonical-src="https://user-images.githubusercontent.com/92244144/219126852-97596043-0db7-4fd7-bfab-24670f7ff57f.png" width="300" height="600" hspace="10"/><br><br>
+
+
+
